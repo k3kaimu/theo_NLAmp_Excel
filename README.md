@@ -2,6 +2,9 @@
 
 このExcelファイルでは，非線形自己干渉キャンセラの自己干渉除去性能を理論解析します．
 
+より詳細に解析したい場合は以下のページでも解析できます．
+[非線形自己干渉キャンセラの理論解析（GoToTheFuture）](https://blog.toyohashi.nagoya/lab/theo_analysis_canc/)
+
 ## 信号モデル
 
 送信信号 $x$ を平均 $0$ ，分散 $1$ の複素ガウス分布 $\mathcal{CN}(0, 1)$ に従う信号とします．
@@ -58,5 +61,6 @@ $$
 $$
 
 これらの詳細については以下の論文を参照してください．
-* K. Komatsu, Y. Miyaji and H. Uehara, "Theoretical Analysis of In-Band Full-Duplex Radios With Parallel Hammerstein Self-Interference Cancellers," in IEEE Transactions on Wireless Communications, vol. 20, no. 10, pp. 6772-6786, Oct. 2021, doi: 10.1109/TWC.2021.3076496.</li>
-* K. Komatsu, Y. Miyaji, H. Uehara and T. Matsumura, "Theoretical Investigation and Optimization of Power Amplifier Nonlinearity for In-Band Full-Duplex Radios," in IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3384-3396, May 2023, doi: 10.1109/TWC.2022.3217765.</li>
+* K. Komatsu, Y. Miyaji and H. Uehara, "Theoretical Analysis of In-Band Full-Duplex Radios With Parallel Hammerstein Self-Interference Cancellers," in IEEE Transactions on Wireless Communications, vol. 20, no. 10, pp. 6772-6786, Oct. 2021, doi: 10.1109/TWC.2021.3076496.
+* K. Komatsu, Y. Miyaji, H. Uehara and T. Matsumura, "Theoretical Investigation and Optimization of Power Amplifier Nonlinearity for In-Band Full-Duplex Radios," in IEEE Transactions on Wireless Communications, vol. 22, no. 5, pp. 3384-3396, May 2023, doi: 10.1109/TWC.2022.3217765.
+
